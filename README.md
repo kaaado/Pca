@@ -25,5 +25,5 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique used 
    python code.py
 4. Change Image Path:
    ```bash
-   image_path = 'your/path/to/img
+   image_path = 'your/path/to/img'
 5.View compressed images in the output folder or display them directly from the script.

@@ -8,8 +8,8 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique used 
 
 ## Files in This Repository
 
-- `PCA_Presentation.pptx`: A PowerPoint presentation that explains PCA and its application in image compression.
-- `pca_image_compression.py`: A Python script implementing PCA for compressing images.
+- `P ca.pptx`: A PowerPoint presentation that explains PCA.
+- `code.py`: A Python script implementing PCA for compressing images.
 
 ## How to Use
 

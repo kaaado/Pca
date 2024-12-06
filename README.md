@@ -20,10 +20,10 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique used 
 2. Install required libraries:
    ```bash
    pip install numpy matplotlib scikit-learn
-3. Run the Python script:
-   ```bash
-   python code.py
-4. Change Image Path:
+3. Change Image Path:
    ```bash
    image_path = 'your/path/to/img'
+4. Run the Python script:
+   ```bash
+   python code.py
 5.View compressed images in the output folder or display them directly from the script.
